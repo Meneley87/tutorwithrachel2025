@@ -202,17 +202,49 @@ Dispute Resolution: Parties will first attempt informal resolution. If unresolve
 
 
 
-Provider Name: Rachel Frazier  
+Provider Name: Rachel Frazier
 
-Business: 405hottest / 405creations  
+Business: 405hottest / 405creations
 
-Business Handle: tutorwithrachel2025  
+Business Handle: tutorwithrachel2025
 
-Contact Email: Frazier.6091@gmail.com  
+Contact Email: Frazier.6091@gmail.com
 
-Address: 1341 SW 28th St, Oklahoma City, OK 73108  
+Address: 1341 SW 28th St, Oklahoma City, OK 73108
 
 Use the contact information above for notices, scheduling questions, and policy objections. Provider may update this Agreement; continued use after changes constitutes acceptance of the revised terms.
+
+
+
+12. Force Majeure
+
+
+
+Neither party shall be liable for delays or failures in performance resulting from acts beyond their reasonable control, including but not limited to natural disasters, pandemics, government actions, internet outages, or other circumstances beyond the reasonable control of the affected party. The affected party shall notify the other party promptly and resume performance as soon as reasonably practicable.
+
+
+
+13. Severability
+
+
+
+If any provision of this Agreement is held invalid or unenforceable by a court of competent jurisdiction, such invalidity shall not affect the validity or enforceability of the remaining provisions, which shall continue in full force and effect.
+
+
+
+14. Entire Agreement
+
+
+
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements, understandings, negotiations, and discussions, whether oral or written. No amendment or modification of this Agreement shall be binding unless in writing and signed by both parties.
+
+
+
+15. Waiver
+
+
+
+Failure by either party to enforce any provision of this Agreement shall not be deemed a waiver of future enforcement of that or any other provision. Any waiver must be in writing and signed by the waiving party to be effective.
 
 
 
